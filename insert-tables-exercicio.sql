@@ -1,0 +1,4 @@
+INSERT INTO TB_EMPRESA (nome_empresa, cod_empresa) VALUES ('EMPRESA E0001','E0001');
+INSERT INTO TB_EMPRESA (nome_empresa, cod_empresa) VALUES ('EMPRESA E0002','E0002');
+
+SELECT * FROM TB_EMPRESA;
